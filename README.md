@@ -64,9 +64,6 @@
 </span>
 <span title="Linux">
 <img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/linux.svg"/>
-<span title="Azure">
-<img align="left" alt="Azure" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/azure.svg"/>
-</span>
 <span title="Terminal">
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/terminal.svg"/>
 </span>
