@@ -15,9 +15,9 @@
 ### Hi, I'm Luis Henrique
 - :book: A Computer Science Undergraduate Student at UFES, Brazil. 
 - :office: Intern Software Developer at Logicalis, Brazil
-- :rocket: Rocketseat GoStack Student
+- :rocket: @Rocketseat GoStack Student
 - :open_file_folder: Database admin student at UFV, Brazil.
-- :books: FullStack Developer and an AI & Data enthusiast.
+- :computer: FullStack Developer and an AI & Data & Blockchain enthusiast.
 
 <br />
 <br />
