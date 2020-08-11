@@ -1,12 +1,12 @@
 ## Hello World! (Faalaaa Dev pra quem é br!) <img src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/henrgv">
+<a href="https://twitter.com/henrgv" target="_blank">
   <img align="left" alt="Luis Henrique Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/henriquegv/">
+<a href="https://www.linkedin.com/in/henriquegv/" target="_blank">
   <img align="left" alt="Luis Henrique Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@lhenrique42">
+<a href="https://medium.com/@lhenrique42" target="_blank">
   <img align="left" alt="Luis Henrique Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />
 </a>
 <br />
