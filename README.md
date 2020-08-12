@@ -1,7 +1,7 @@
 ## Hello World! (Faalaaa Dev pra quem é br!) <img src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/henrgv" target="_blank">
-  <img align="left" alt="Luis Henrique Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://app.rocketseat.com.br/me/lhenrique42" target="_blank">
+  :rocket:
 </a>
 <a href="https://www.linkedin.com/in/henriquegv/" target="_blank">
   <img align="left" alt="Luis Henrique Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
