@@ -1,13 +1,13 @@
 ## Hello World! (Faalaaa Dev pra quem é br!) <img src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://app.rocketseat.com.br/me/lhenrique42" target="_blank">
-  :rocket:
+  <img align="left" alt="Luis Henrique Rocketseat" width="22px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/rocket.svg" />
 </a>
 <a href="https://www.linkedin.com/in/henriquegv/" target="_blank">
-  <img align="left" alt="Luis Henrique Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Luis Henrique LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@lhenrique42" target="_blank">
-  <img align="left" alt="Luis Henrique Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />
+  <img align="left" alt="Luis Henrique Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />
 </a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
