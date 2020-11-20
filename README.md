@@ -42,7 +42,7 @@
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/docker.svg"/>
 </span>
 <span title="Kubernetes">
-<img align="left" alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/docker.svg"/>
+<img align="left" alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/kubernetes.svg"/>
 </span>
 <span title="Java">
 <img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/java.svg"/>
