@@ -41,11 +41,20 @@
 <span title="Docker">
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/docker.svg"/>
 </span>
-<span title="HTML">
-<img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/html.svg"/>
+<span title="Kubernetes">
+<img align="left" alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/docker.svg"/>
 </span>
-<span title="CSS">
-<img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/css.svg"/>
+<span title="Java">
+<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/java.svg"/>
+</span>
+<span title="Spring">
+<img align="left" alt="Spring" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/spring.svg"/>
+</span>
+<span title="Keycloak">
+<img align="left" alt="Keycloak" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/keycloak.svg"/>
+</span>
+<span title="Python">
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/python.svg"/>
 </span>
 <span title="C">
 <img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/c.svg"/>
@@ -53,19 +62,10 @@
 <span title="C plus plus">
 <img align="left" alt="C plus plus" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/cplusplus.svg"/>
 </span>
-<span title="Python">
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/python.svg"/>
-</span>
-<span title="Java">
-<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/java.svg"/>
-</span>
-<span title="Keycloak">
-<img align="left" alt="Keycloak" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/keycloak.svg"/>
-</span>
 <span title="Linux">
 <img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/linux.svg"/>
-<span title="Terminal">
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/terminal.svg"/>
+<span title="Bash">
+<img align="left" alt="Bash" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/terminal.svg"/>
 </span>
 <span title="Git">
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/icons/git.svg"/>
