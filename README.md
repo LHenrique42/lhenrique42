@@ -10,7 +10,7 @@
   <img align="left" alt="Luis Henrique Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width=360px/>
 
 ### Hi, I'm Luis Henrique
 - :book: A Computer Science Undergraduate Student at UFES, Brazil. 
