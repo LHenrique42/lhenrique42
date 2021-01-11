@@ -13,10 +13,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width=360px/>
 
 ### Hi, I'm Luis Henrique
-- :book: A Computer Science Undergraduate Student at UFES, Brazil. 
-- :office: Intern Software Developer at Logicalis, Brazil
+- :office: IT Analyst at BTG Pactaul, Brazil
 - :rocket: @Rocketseat GoStack Student
-- :open_file_folder: Database admin student at UFV, Brazil.
 - :computer: FullStack Developer and an AI & Data & Blockchain enthusiast.
 
 <br />
